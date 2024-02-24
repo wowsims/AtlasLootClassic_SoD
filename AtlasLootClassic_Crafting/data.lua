@@ -52,6 +52,7 @@ data["Alchemy"] = {
 				{ 1, 426607 }, --Elixir of Coalesced Regret
 				{ 3, 435969 }, --Insulating Gniodine
 				{ 4, 435971 }, --Mildly Irradiated Rejuvenation Potion
+				{ 5, 439960 }, --Recipe: Lesser Arcane Elixir
 			},
 		},
 		{
@@ -604,6 +605,7 @@ data["Enchanting"] = {
 				{ 1, 430409 }, --Brilliant Mana Oil / 310
 				{ 3, 435903 }, --Enchant Chest - Retricutioner
 				{ 4, 435481 }, -- Enchant Weapon - Dismantle
+				{ 5, 439156 }, -- Sigil of Innovation
 				{ 16, "INV_Box_01", nil, AL["Updated in SoD"], nil },
 				{ 17, 439134 }, -- Greater Mystic Wand
 			}
