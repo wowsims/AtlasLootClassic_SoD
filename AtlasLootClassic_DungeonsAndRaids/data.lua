@@ -7469,6 +7469,5 @@ data["Gnomeregan2"] = {
 				{ 29, 213427 }, -- Grime-Encrusted Salvage
 			},
 		},
-
 	},
 }
